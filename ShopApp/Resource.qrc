@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/shop1.png</file>
+        <file>images/001-user-app.png</file>
+        <file>images/002-data-storage.png</file>
+        <file>images/003-open-folder.png</file>
+        <file>images/005-shopping-cart.png</file>
+        <file>images/006-buy.png</file>
+        <file>images/delete.png</file>
+    </qresource>
+</RCC>
